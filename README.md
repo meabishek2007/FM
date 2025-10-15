@@ -65,11 +65,13 @@ MODEL GRAPH:
 
 
 Program
+~~~
 Am=4.9
 fm=396
 Ac=9.8
 fc=3960
 fs=39600
+b=4.7
 t=0:1/fs:2/fm
 m=Am*cos(2*3.14*fm*t)
 subplot(3,1,1)
@@ -77,10 +79,10 @@ plot(t,m)
 c=Ac*cos(2*3.14*fc*t)
 subplot(3,1,2)
 plot(t,c)
-s=Ac*cos(2*3.14*fc*t+4.7*sin(2*3.14*fm*t))
+s=Ac*cos(2*3.14*fc*t+b*sin(2*3.14*fm*t))
 subplot(3,1,3)
 plot(t,s)
-
+~~~
 Output Waveform
 ![WhatsApp Image 2025-09-23 at 20 28 12_5fca3701](https://github.com/user-attachments/assets/6f43ce68-907d-4edb-8419-ee0901b4d84b)
 Tabulation
