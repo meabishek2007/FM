@@ -63,7 +63,6 @@ MODEL GRAPH:
 
 <img width="512" height="365" alt="image" src="https://github.com/user-attachments/assets/acd787bd-5281-4f1b-802f-1aa39fac9189" />
 
-
 Program
 ~~~
 Am=4.9
@@ -85,6 +84,7 @@ plot(t,s)
 ~~~
 Output Waveform
 ![WhatsApp Image 2025-09-23 at 20 28 12_5fca3701](https://github.com/user-attachments/assets/6f43ce68-907d-4edb-8419-ee0901b4d84b)
+
 Tabulation
 ![WhatsApp Image 2025-10-16 at 11 37 40_b76a351b](https://github.com/user-attachments/assets/a99faed1-a7aa-4c11-a233-3b9bb7225db1)
 
