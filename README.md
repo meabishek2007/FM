@@ -47,7 +47,6 @@ Algorithm
 •	Plots the modulating signal, carrier signal, FM modulated signal, and demodulated signal for analysis.
 
 
-
 PROCEDURE
 
 
@@ -60,7 +59,6 @@ PROCEDURE
 Verify the generated waveform using Tabulation and Model Waveform
 
 MODEL GRAPH:
-
 <img width="512" height="365" alt="image" src="https://github.com/user-attachments/assets/acd787bd-5281-4f1b-802f-1aa39fac9189" />
 
 Program
